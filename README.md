@@ -22,6 +22,8 @@
 <a href="https://linkedin.com/in/myselfswk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myselfswk" height="30" width="40" /></a>
 <a href="https://fb.com/myselfswk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="myselfswk" height="30" width="40" /></a>
 <a href="https://instagram.com/myselfswk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myselfswk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13762315/muhammad-waleed-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13762315/muhammad-waleed-khan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@myselfswk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@myselfswk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
