@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfswk&label=Profile%20views&color=0e75b6&style=flat" alt="myselfswk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/myselfswk" target="blank"><img src="https://img.shields.io/twitter/follow/myselfswk?logo=twitter&style=for-the-badge" alt="myselfswk" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Concepts**
 
 - 💬 Ask me about **ReactJS**
