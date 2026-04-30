@@ -40,7 +40,7 @@ export default new Developer();
   <a href="https://twitter.com/myselfswk">
     <img src="https://cdn.simpleicons.org/x/000000/ffffff" height="28"/>
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/myselfswk">
+  <a href="https://linkedin.com/in/myselfswk" style="color:#ffffff; font-weight:bold;">
     LN
   </a>&nbsp;&nbsp;
   <a href="https://fb.com/myselfswk">
@@ -89,6 +89,10 @@ export default new Developer();
 <td style="border:1px solid #1e293b; border-radius:12px; padding:6px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfswk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
 </td>
+</tr>
+</table>
+<table align="center">
+<tr>
 <td style="border:1px solid #1e293b; border-radius:12px; padding:6px;">
   <img src="https://streak-stats.demolab.com?user=myselfswk&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
 </td>
