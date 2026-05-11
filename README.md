@@ -80,7 +80,7 @@ export default new Developer();
 </p>
 
 📊 Engineering Signals
-<table align="center">
+<!-- <table align="center">
 <tr>
 <td style="border:1px solid #1e293b; border-radius:12px; padding:6px;">
   <img src="https://github-readme-stats.vercel.app/api?username=myselfswk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
@@ -90,7 +90,7 @@ export default new Developer();
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfswk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
 </td>
 </tr>
-</table>
+</table> -->
 <table align="center">
 <tr>
 <td style="border:1px solid #1e293b; border-radius:12px; padding:6px;">
